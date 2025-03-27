@@ -1,7 +1,7 @@
 # Web-Crawler
 Web Crawler to extract disaster information to create a alert 
 ### The overall objective: 
-![image alt](https://github.com/PriyaVasu/Web-Crawler/blob/e20a454a41f0251bec23a6dadc1fa531e83f5c18/WEB%20CRAWLER-procedure-overall%20diagram%20(1).docx)
+![image alt](https://github.com/PriyaVasu/Web-Crawler/blob/3f97ae2cf4d03d0d074a87253f013ca3c9c6350c/WebCrawler_dataflow_overall.png)
 ### Sample codes:
 - Web_Crawler_Sample_reg_rainfall_earthquake_final_with_firefox.py 
 - Web_Crawler_parallel.py - for parallel processing
